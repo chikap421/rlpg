@@ -1,13 +1,3 @@
-# %% [markdown]
-# <a href="https://colab.research.google.com/drive/1WqOlp-uBfh7cjYezJwLLjy87UnngH48i" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
-
-# %% [markdown]
-# # **Fall 2023 6.7900 HW 4 Policy Gradients**
-
-# %% [markdown]
-# ## (a) Setup
-# 
-# The following code sets up requirements, imports, and helper functions (you can ignore this).
 
 # %%
 !pip3 install -i https://test.pypi.org/simple/ sensorimotor-checker==0.0.8  &>/dev/null
