@@ -16,7 +16,7 @@ This command ensures all dependencies, including PyTorch for model development a
 
 After installing the dependencies, execute the Python scripts to begin training and evaluating the reinforcement learning models. These scripts encompass the entire workflow from initialization and training to evaluation of the agents within the specified environment.
 
-## Enhanced Code Structure
+## Code Structure
 
 - **Environment Setup**: Custom initialization of the `DoorKeyEnv5x5` environment from `gym_minigrid`, designed to challenge the agent with tasks involving key-finding and door-opening using visual inputs.
 - **Model Development**: Implementation of a sophisticated actor-critic model (`ACModel`) using convolutional neural networks (CNNs) to process visual inputs from the environment. This model structure is pivotal for learning efficient policies through direct interaction.
@@ -25,7 +25,7 @@ After installing the dependencies, execute the Python scripts to begin training 
 
 ## Results and Observations
 
-### Enhanced Understanding through Visual Analysis
+### Understanding through Visual Analysis
 
 - **Policy Gradients - REINFORCE**: The provided plot illustrates the agent's learning progress over episodes, showing a clear trend of performance improvement. This demonstrates the agent's growing proficiency in environment navigation and task completion.
   
