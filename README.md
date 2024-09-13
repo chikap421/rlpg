@@ -1,5 +1,14 @@
 # Reinforcement Learning with Policy Gradients
-
+![Reinforcement Learning](https://img.shields.io/badge/🤖%20Reinforcement%20Learning-blue?style=for-the-badge&logo=ai&logoColor=white)
+![Python](https://img.shields.io/badge/🐍%20Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![PyTorch](https://img.shields.io/badge/🔥%20PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
+![Gym](https://img.shields.io/badge/🏋️%20OpenAI%20Gym-008080?style=for-the-badge&logo=openai&logoColor=white)
+![CNN](https://img.shields.io/badge/🧠%20CNN%20Model-critical?style=for-the-badge&logo=neural&logoColor=white)
+![Policy Gradient](https://img.shields.io/badge/📈%20Policy%20Gradient-orange?style=for-the-badge&logo=plotly&logoColor=white)
+![Actor Critic](https://img.shields.io/badge/🎭%20Actor%20Critic-brightgreen?style=for-the-badge&logo=theater&logoColor=white)
+![MiniGrid](https://img.shields.io/badge/🔑%20MiniGrid%20DoorKey-9146FF?style=for-the-badge&logo=grid&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/🚀%20Deep%20Learning-red?style=for-the-badge&logo=deep-learning&logoColor=white)
+![MIT License](https://img.shields.io/badge/📜%20License-lightgrey?style=for-the-badge&logo=open-source-initiative&logoColor=black)
 ## Project Overview
 This project focuses on implementing and experimenting with policy gradient methods in reinforcement learning, specifically targeting the complex challenges presented by the `gym-minigrid` DoorKey environment. Our approach utilizes advanced actor-critic models to efficiently navigate and solve spatial reasoning tasks in a simulated grid environment. The primary goal is to develop an agent capable of maximizing efficiency in environment interaction, leveraging visual perception and sequential decision-making to achieve success.
 
